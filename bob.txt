@@ -1,7 +1,4 @@
 <p>Hello, World! I'm Bob.</p>
 <h1>Bob's Burgers</h1>
-<<<<<<< HEAD
 <br>
 <h3>Home of the patty</h3>
-=======
->>>>>>> change_alice
